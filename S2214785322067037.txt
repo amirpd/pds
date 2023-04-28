@@ -1,0 +1,11 @@
+Abdullah Yahia Hassan, Abdulaziz Bahkali, Mohammad Yahya Meryahi, Ahmed Gamil Alharbi, Haitham Hadidi, Mohammed Tharwan, Rajasekaran Saminathan,
+The electrochemical degradation, wear behavior and machining of metal matrix composites based on 6xxx aluminum alloy with ceramic particulate reinforcements; a brief review,
+Materials Today: Proceedings,
+Volume 80, Part 2,
+2023,
+Pages 377-381,
+ISSN 2214-7853,
+https://doi.org/10.1016/j.matpr.2022.10.184.
+(https://www.sciencedirect.com/science/article/pii/S2214785322067037)
+Abstract: 6xxx series aluminum alloy-based metal matrix composite materials are finding greater applicability in various fields like marine, aerospace and automobile industries. In fact, the diverse nature of the availability of ceramic particles and the hybrid combinations of the reinforcements make them versatile in superior properties as well as applications. More over these composites are latest additions to the novel materials developed in recent decades and hence the end products of these composites are reaching the markets in recent times after several years of optimization studies. There is a need to compose the material properties as a review document so that the research on the same domain will get accelerated. Hence it is appropriate to make a comprehensive study about 6xxx aluminum alloy-based metal matric composites in terms of its corrosion behavior in aggressive environments, wear behavior in engineering applications and feasibility of manufacturing the end products using the composite.
+Keywords: 6xxx Aluminum alloy; Metal matrix Composites; Manufacturing and corrosion behavior
